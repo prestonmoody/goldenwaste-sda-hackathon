@@ -1,6 +1,6 @@
 branch-defaults:
   master:
-    environment: golden-waste
+    environment: goldenwaste-sda-hackathon-dev
     group_suffix: null
 global:
   application_name: goldenwaste-sda-hackathon
